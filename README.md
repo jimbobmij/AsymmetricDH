@@ -1,4 +1,4 @@
-# AsymmetricDH
+# Asymmetric Diffie-Hellman Key Agreement Protocol
 This repository contains Java implementations of an **asymmetric variant** of the Diffie-Hellman key agreement protocol, designed to reduce the computational burden on one party (typically Alice) by leveraging parallel computing and short exponents. The implementation supports performance measurements and is suitable for experimental analysis in asymmetric computational environments.
 
 ## Overview
